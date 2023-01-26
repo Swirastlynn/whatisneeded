@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "appName": "whatisneeded",
+  "@appName": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "shareCollection": "Share collection",
+  "share": "Share",
+  "currentNeeds": "current needs",
+  "lastUpdate": "last update"
+}
